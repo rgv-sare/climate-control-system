@@ -42,6 +42,6 @@ void loop() {
   }
 
   // Waits for 2s before taking the next reading
-  delay(200); // You can adjust the delay (in milliseconds)
+  delay(2000); // You can adjust the delay (in milliseconds)
 }
 
